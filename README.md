@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rizki%20Maulana%20Arif&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%7C%20Fullstack%20Developer&descAlignY=60&descSize=16&descColor=00fff2" />
@@ -13,7 +14,7 @@
 　　　　| 　_　_|    "I don't always test my code...
 　 　　／` ミ＿xノ      but when I do, I do it in production."
 　　 /　　　 　|
-　　/　 ヽ　　 ﾉ         — me, 3am, debugging WebSocket 🐛
+　　/　 ヽ　　 ﾉ         — me, 3am, debugging WebSocket 
 　 │　　|　|　|
 　／￣|　　 |　|　|
 　| (￣ヽ＿_ヽ_)__)
