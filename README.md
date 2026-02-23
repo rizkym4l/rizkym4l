@@ -4,25 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?
   https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rizki%20Maulana%20Arif&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Fullstack%20Developer&descAlignY=60&descSize=16&descColor=00fff2type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rizki%20Maulana%20Arif&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%7C%20Fullstack%20Developer&descAlignY=60&descSize=16&descColor=00fff2" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00FFF2&center=true&vCenter=true&width=650&lines=%E3%80%8C+Code+is+my+Jutsu+%E3%80%8D+%F0%9F%94%A5;React+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+Docker;Shipping+features+at+%2B40%25+speed+%E2%9A%A1;Available+for+remote+%E2%80%94+anytime%2C+anywhere+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-```
-　　　   ／＞　 フ
-　　　　| 　_　_|    "I don't always test my code...
-　 　　／` ミ＿xノ      but when I do, I do it in production."
-　　 /　　　 　|
-　　/　 ヽ　　 ﾉ         — me, 3am, debugging WebSocket 
-　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
-```
-
-</div>
 
 ---
 
