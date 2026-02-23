@@ -1,124 +1,147 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rizki%20Maulana%20Arif&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20JS%20Ecosystem%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rizki%20Maulana%20Arif&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%7C%20Fullstack%20Developer&descAlignY=60&descSize=16&descColor=00fff2" />
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+by+day%2C+Backend+by+night+%F0%9F%8C%99;React+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+Docker;Building+things+that+actually+ship+%F0%9F%9A%80;From+Bogor%2C+deploying+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=00FFF2&center=true&vCenter=true&width=650&lines=%E3%80%8C+Code+is+my+Jutsu+%E3%80%8D+%F0%9F%94%A5;React+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+Docker;Shipping+features+at+%2B40%25+speed+%E2%9A%A1;Available+for+remote+%E2%80%94+anytime%2C+anywhere+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Dev Quote -->
-> *"Any fool can write code that a computer can understand.*
-> *Good programmers write code that humans can understand."*
-> — Martin Fowler
+```
+　　　   ／＞　 フ
+　　　　| 　_　_|    "I don't always test my code...
+　 　　／` ミ＿xノ      but when I do, I do it in production."
+　　 /　　　 　|
+　　/　 ヽ　　 ﾉ         — me, 3am, debugging WebSocket 🐛
+　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ `~/rizki --stats`
+
+</div>
+
+```yaml
+name        : Rizki Maulana Arif
+role        : Fullstack Developer (FE main, BE support)
+location    : Bogor, West Java 🇮🇩  →  Remote World 🌍
+stack       : React · TypeScript · NestJS · Docker · MongoDB · PostgreSQL
+university  : Telkom University — D4 Smart City Info Systems (GPA 3.78)
+power_level : over 9000 components shipped 🔥
+status      : [ OPEN TO REMOTE ] ✅
+side_quest  : Building AI-powered apps with MediaPipe 🤖
+```
+
+---
+
+<div align="center">
+
+### 🎮 Tech Arsenal
+
+**⚔️ Frontend**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=9B59B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+**🛡️ Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+
+**🗄️ Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
+
+**🐋 DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2CA5E0)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0D1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗺️ Quest Log — Featured Projects
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🤟  SIGNMASTER                                [COMPLETED ✓] ║
+║      AI sign language learning — MediaPipe + React + NestJS  ║
+║      → https://sanssign.netlify.app/                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  💼  PORTFOLIO                                 [LIVE 🟢]     ║
+║      portofolio | Rizki Maulana Arif                         ║
+║      → https://rizkimaulanaarifporto.netlify.app/            ║
+╠══════════════════════════════════════════════════════════════╣
+║  🏦  ENTERPRISE FINTECH APP        [PRODUCTION — 9 MONTHS]   ║
+║      50+ components · WebSocket · 40% faster delivery        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+### 📊 Power Stats
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rizkym4l&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFF2&icon_color=00FFF2&text_color=ffffff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkym4l&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00FFF2&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkym4l&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00FFF2&ring=00FFF2&fire=FF6B6B&currStreakLabel=00FFF2" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkym4l&bg_color=0D1117&color=00FFF2&line=00FFF2&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎌 Villain Arc Loading...
+
+```
+     ██████╗ ███████╗██╗   ██╗
+     ██╔══██╗██╔════╝██║   ██║
+     ██║  ██║█████╗  ██║   ██║
+     ██║  ██║██╔══╝  ╚██╗ ██╔╝
+     ██████╔╝███████╗ ╚████╔╝
+     ╚═════╝ ╚══════╝  ╚═══╝
+
+"They said it couldn't be deployed on Friday.
+      They were right. But I did it anyway."
+```
+
+### 📡 Find Me IRL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF2)](https://www.linkedin.com/in/rizki-maulana-arif)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:rizkymaulana.more@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00FFF2)](https://rizkimaulanaarifporto.netlify.app/)
 
 <br/>
 
-</div>
-
----
-
-## 🧠 About Me
-
-```typescript
-const rizki = {
-  role: "Fullstack Developer",
-  location: "Bogor, West Java 🇮🇩",
-  experience: "±1.5 years (FE) + BE on the rise 📈",
-  currentlyAt: ["Software Fintools", "Jagoscript"],
-  education: "D-4 Smart City Info Systems @ Telkom University",
-  funFact: "I've written more TypeScript than sleep hours ☕",
-  openTo: "Remote opportunities worldwide 🌍",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🤟 **[SignMaster](https://sanssign.netlify.app/)** | React · NestJS · MongoDB · MediaPipe | AI-powered sign language learning platform with real-time hand gesture recognition |
-| 💼 **[Portfolio](https://rizkimaulanaarifporto.netlify.app/)** | React · TypeScript | Personal portfolio showcasing projects & experience |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkimaulanaarif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkimaulanaarif&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkimaulanaarif&theme=tokyonight&hide_border=true" />
+![Visitor Count](https://komarev.com/ghpvc/?username=rizkym4l&color=00fff2&style=for-the-badge&label=VISITORS)
 
 </div>
 
----
-
-## 😂 Dev Humor
-
-<div align="center">
-
-```
-// My code in production:
-try {
-  doEverything();
-} catch (e) {
-  console.log("it works on my machine 🤷");
-}
-```
-
-*It's not a bug, it's an undocumented feature.*
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizki-maulana-arif)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkymaulana.more@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://rizkimaulanaarifporto.netlify.app/)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
